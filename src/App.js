@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import logo from './logo.svg'
 import './App.css'
 import Youtube from './Youtube'
-import Amazon from './Amazon'
+
 
 class App extends Component {
    render() {
@@ -13,7 +13,6 @@ class App extends Component {
                <h1 className="App-title">Video & Amazon Genie</h1>
             </header>
             <Youtube />
-            <Amazon />
          </div>
       )
    }
