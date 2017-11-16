@@ -10,7 +10,7 @@ class App extends Component {
          <div className="App">
             <header className="App-header">
                <img src={logo} className="App-logo" alt="logo" />
-               <h1 className="App-title">Video & Amazon Genie</h1>
+               <h1 className="App-title">Youtube Genie</h1>
             </header>
             <Youtube />
          </div>
